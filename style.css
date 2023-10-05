@@ -1,1 +1,9 @@
 
+body {background-color:#fff0f3;
+  font-family: Calibri, sans-serif;
+  margin: 10% 20%}
+.title {text-align: center}
+.summary {text-align: center}
+.key skills {text-align: center}
+.professional p {font-weight: bold}
+h1 {text-align: center}
